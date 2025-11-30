@@ -22,7 +22,9 @@ It includes data analysis and trained models.
 
 ---
 
-<div style="display: flex; gap: 10px;">
-  <img src="images/five.png" alt="Screenshot 1" width="45%">
-  <img src="images/train_val.png" alt="Screenshot 2" width="45%">
+## 📸 Project Screenshots
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="images/five.png" alt="Screenshot 1" width="300px" />
+  <img src="images/train_val.png" alt="Screenshot 2" width="300px" />
 </div>
