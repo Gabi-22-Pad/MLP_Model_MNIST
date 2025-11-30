@@ -4,7 +4,7 @@
 
 <figure>
   <img src="images/mlp.png" alt="Model representation">
-  <figcaption>Subtítulo de la imagen</figcaption>
+  <figcaption>Model representation</figcaption>
 </figure>
 
 ## Description
