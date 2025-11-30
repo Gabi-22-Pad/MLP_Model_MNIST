@@ -1,4 +1,4 @@
-# 🌟 My Portfolio Project
+# 🌟 MLP for MNIST classification
 
 ![Banner del proyecto](images/mlp.png)
 
@@ -22,6 +22,6 @@ It includes data analysis and trained models.
 
 ---
 
-## 📸 Project Screenshots
-![Screenshot 1](images/five.png)
-![Screenshot 2](images/train_val.png)
+<img src="images/five.png" alt="Screenshot 1" width="45%" />
+<img src="images/train_val.png" alt="Screenshot 2" width="45%" />
+
