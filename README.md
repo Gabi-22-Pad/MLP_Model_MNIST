@@ -1,24 +1,28 @@
 # 🌟 MLP for MNIST classification
 
+## By Gabriel Padilla Haro
+
 ![Banner del proyecto](images/mlp.png)
 
 ## Description
-This project is an example portfolio showcasing my skills in **Machine Learning and Python**.  
-It includes data analysis and trained models.
+
+In this project, a multilayer perceptron (MLP) neural network is constructed for the classification of digit images from the MNIST dataset. First, an exploratory analysis of the dataset images is performed, including their visualization and the normalization of pixel intensity values. After applying one-hot encoding to transform the categorical output variable, the model is built: two hidden layers with 256 neurons each, using the ReLU activation function, and an output layer with the softmax activation function, along with two Dropout regularization layers to prevent overfitting. Categorical cross-entropy is employed as the loss function, the Adam optimizer is used for training, and accuracy is adopted as the performance metric.
+
+To obtain the model with the highest accuracy, a callback is defined to store in a folder the model achieving the best validation accuracy. In addition, accuracy curves for both training and validation sets are plotted with respect to training epochs. Subsequently, the model is evaluated on the test set. Finally, similar models are trained on data to which Gaussian noise has been added. We examine the variations in accuracy, as well as a potential improvement in model robustness through the inclusion of noisy samples as a data augmentation technique.
 
 ---
 
 ## 🚀 Technologies Used
-- **Languages:** Python
-- **Libraries:** Keras, Scikit-learn, NumPy, Matplotlib
-- **Tools:** Jupyter Notebook, VSCode
+- **Languages:** Python.
+- **Libraries:** Keras, NumPy, Matplotlib, os.
+- **Tools:** Jupyter Notebook, VSCode.
 
 ---
 
 ## 💡 Key Features
-1. Training Machine Learning models with sample datasets.
-2. Interactive visualization of results through charts.
-3. Simple web application to predict outcomes using the trained model.
+1. Step-by-step explanation of the complete learning process of the model.
+2. Visualization of the dataset and the model’s accuracy.
+3. Use of data augmentation techniques, such as adding Gaussian noise.
 
 ---
 
