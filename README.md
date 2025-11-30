@@ -2,7 +2,10 @@
 
 ## By Gabriel Padilla Haro
 
-![Banner del proyecto](images/mlp.png)
+<figure>
+  <img src="images/mlp.png" alt="Model representation">
+  <figcaption>Subtítulo de la imagen</figcaption>
+</figure>
 
 ## Description
 
