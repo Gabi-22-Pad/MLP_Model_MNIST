@@ -2,10 +2,8 @@
 
 ## By Gabriel Padilla Haro
 
-<figure>
-  <img src="images/mlp.png" alt="Model representation">
-  <figcaption>Model representation</figcaption>
-</figure>
+![MLP](images/mlp.png)
+
 
 ## Description
 
